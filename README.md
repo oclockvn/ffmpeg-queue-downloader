@@ -36,7 +36,6 @@ https://path/to/playlist1.m3u8
 ```
 
 # Development
----
 
 Requirement:
 
